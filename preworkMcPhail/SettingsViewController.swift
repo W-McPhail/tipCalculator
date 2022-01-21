@@ -21,6 +21,10 @@ class SettingsViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    override func viewDidAppear(_ animated: Bool) {
+        // Update TextFields
+    }
+    
     @IBAction func saveSettings(_ sender: Any) {
         let defaults = UserDefaults.standard
         let defaultTipOne = Double(defaultTip1.text!) ?? 0
