@@ -83,7 +83,6 @@
 		34E510C927965E35002354AC = {
 			isa = PBXGroup;
 			children = (
-				34E51108279665AD002354AC /* SettingsViewController.swift */,
 				34E510D427965E35002354AC /* preworkMcPhail */,
 				34E510EE27965E39002354AC /* preworkMcPhailTests */,
 				34E510F827965E39002354AC /* preworkMcPhailUITests */,
@@ -104,6 +103,7 @@
 		34E510D427965E35002354AC /* preworkMcPhail */ = {
 			isa = PBXGroup;
 			children = (
+				34E51108279665AD002354AC /* SettingsViewController.swift */,
 				34E510D527965E35002354AC /* AppDelegate.swift */,
 				34E510D727965E35002354AC /* SceneDelegate.swift */,
 				34E510D927965E35002354AC /* ViewController.swift */,
